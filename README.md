@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Henrique.
 
-- 🔭 Não estou trabalhando no momento
-- 🌱 Venho atualmente estudando Java e cursando LC na UFRPE
+- 🔭 Buscando vagas de estágio para Desenvolvedor Java (sem experiência)
+- 🌱 Venho atualmente estudando Java e cursando Licenciatura em Computação na UFRPE (4° período)
 - 😄 Pronomes: Ele/Dele
 
  <div>

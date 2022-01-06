@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Henrique.
 
-- 🔭 Buscando vagas de estágio para Desenvolvedor Java (sem experiência)
+- 🔭 Estagiando como Desenvolvedor Java pela Segsat
 - 🌱 Venho atualmente estudando Java e cursando Licenciatura em Computação na UFRPE (4° período)
 - 😄 Pronomes: Ele/Dele
 

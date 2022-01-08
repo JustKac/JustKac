@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Caio Henrique.
 
-- 🔭 Estagiando como Desenvolvedor Java pela Segsat
+- 🔭 Estagiando como Engenheiro de Software pela Segsat
 - 🌱 Venho atualmente estudando Java e cursando Licenciatura em Computação na UFRPE (4° período)
+- 🎼 Musica que me define: Morada - ForFun
 - 😄 Pronomes: Ele/Dele
 
  <div>

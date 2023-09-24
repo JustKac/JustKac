@@ -12,6 +12,4 @@
   <a href="https://api.whatsapp.com/send?phone=5581981273873&text=Ol%C3%A1%2C%20Caio!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/caiohclins" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/JustKac/JustKac/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Henrique.
 
 - 🔭 Desenvolvedor de Software pela Segsat Tecnologia
-- 🌱 Desenvolvedor Backend com Java + Springboot e cursando Licenciatura em Computação na UFRPE (5° período)
+- 🌱 Desenvolvedor Backend com Java + Springboot e cursando Licenciatura em Computação na UFRPE (6° período)
 - 🎼 Musica que me define: Morada - ForFun
 - 😄 Pronomes: Ele/Dele
 

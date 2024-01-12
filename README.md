@@ -3,7 +3,6 @@
 - 🔭 Desenvolvedor de Software pela Segsat Tecnologia
 - 🌱 Desenvolvedor Backend com Java + Springboot e cursando Licenciatura em Computação na UFRPE (6° período)
 - 🎼 Musica que me define: Morada - ForFun
-- 😄 Pronomes: Ele/Dele
 
   <div> 
   <a href="https://www.linkedin.com/in/caiohclins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
